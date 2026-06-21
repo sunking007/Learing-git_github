@@ -1,2 +1,2 @@
-# Learing-git_github
+# Learning-git_github
 First repo learning stuff
